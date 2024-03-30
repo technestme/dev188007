@@ -358,9 +358,3 @@ developefullstack420@gmail.com
 </td></tr></table>  
 
 <br/>  
-  
-
-# Do you want to see my past work?
-
-## Freelancer Account Creating Bot
-<a href="https://github.com/seniorcoder72/freelancer-create-account-bot" target="_blank">![FreelancerCreateAccountBot](https://user-images.githubusercontent.com/132613676/261790892-e62c9b6b-4b1f-491d-b894-201263ffd8a0.gif?raw=true)</a>
