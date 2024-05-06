@@ -11,10 +11,8 @@
 
 </div>
 
-<div>
-  ### Open to Work
-  ### How to reach me: https://t.me/konan00007
-</div>
+  ###          Status:  Open to Work
+  ### How to reach me:  https://t.me/konan00007
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
