@@ -11,6 +11,11 @@
 
 </div>
 
+<div>
+  ### Open to Work
+  ### How to reach me: https://t.me/konan00007
+</div>
+
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
