@@ -17,6 +17,7 @@
 <!--     <p>🌱 Currently learning .</p> -->
     <p>💻 4 years' computer science and technology education.</p>
     <p>🏢 6+ years' experience as a professional software architect.</p>
+    <p>🙆‍♂️ <strong> Now I am looking for collaborators who are interested in Rust. Entry levels are also welcome. Please contact me on Skype if you are interested.</strong></p>
   </div>
   <p align="center" style="margin-top: 50px;">
 <!--     <a href="https://www.linkedin.com/in/suzukidavid" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="60" /></a> -->
