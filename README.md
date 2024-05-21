@@ -4,7 +4,7 @@
 
 <div align="center">
   <span style="font-size: 24px; line-height: 1.5;">
-    🐍 <b>Python</b> | 👩‍💻 <b>Rust</b> | 💻 <b>Java</b> | 👍 <b>Javascript</b> | ☁️ <b>Cloud Native</b> | 📝 <b>DeFi Smart Contract</b> | <b><a href="https://suzuki-david.netlify.app" style="color: #000;">🌐 Website</a></b>
+    🐍 <b>C#</b> | 👩‍💻 <b>Rust</b> | 💻 <b>React</b> | 👍 <b>Javascript</b> | ☁️ <b>Cloud Native</b> | 📝 <b>DeFi Smart Contract</b>
   </span>
 </div>
 
