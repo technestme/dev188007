@@ -28,6 +28,6 @@
     &nbsp;&nbsp;
     <a href="https://join.skype.com/0RwR0iILIlXk" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png" width="60" /></a>
     &nbsp;&nbsp;
-<!--     <a href="https://t.me/dev188007me" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png" width="60" /></a> -->
+    <a href="https://t.me/dev188007_me" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png" width="60" /></a>
   </p>
 </div>
