@@ -22,12 +22,12 @@
   <p align="center" style="margin-top: 50px;">
 <!--     <a href="https://www.linkedin.com/in/suzukidavid" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="60" /></a> -->
     &nbsp;&nbsp;
-    <a href="mailto:smartguru0218@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="60" /></a>
+    <a href="mailto:technestme@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="60" /></a>
     &nbsp;&nbsp;
 <!--      <a href="https://linkpage.bio/suzukidavid" target="_blank" rel="noopener noreferrer"><img src="https://github.com/suzukidavid/suzukidavid/blob/master/icons/qr1.png" alt="qr" height="100" /></a> -->
     &nbsp;&nbsp;
     <a href="https://join.skype.com/0RwR0iILIlXk" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png" width="60" /></a>
     &nbsp;&nbsp;
-    <a href="https://t.me/dev188007_me" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png" width="60" /></a>
+    <a href="https://t.me/technestme" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png" width="60" /></a>
   </p>
 </div>
